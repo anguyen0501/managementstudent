@@ -1,11 +1,11 @@
 # 🔥🔥🔥Quản Lí Sinh Viên🔥🔥🔥
 🔥 Yêu cầu phần mềm :
 
-🔥 * CSDL : Microsoft SQL Sever 2019
+*🔥 CSDL : Microsoft SQL Sever 2019
 
-🔥 * IDE : Apache Netbeans 15
+*🔥 IDE : Apache Netbeans 15
 
-🔥 * File sqljdbc : Đã có trong folder "connectSQLSEVER"
+*🔥 File sqljdbc : Đã có trong folder "connectSQLSEVER"
 
 ## **Vào folder "connectSQLSEVER" :**
 
