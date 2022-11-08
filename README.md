@@ -14,4 +14,4 @@ Mặc định là :
 	
 	password : 123456
 
-Bước 3: Vào NetBeans -> Services (Ctrl + 5) -> Drivers và add Driver sqljdbc vào Netbeans
+Bước 3: Vào NetBeans -> Databases -> Services (Ctrl + 5) -> Drivers và add Driver sqljdbc vào Netbeans
