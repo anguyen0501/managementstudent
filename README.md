@@ -9,7 +9,9 @@ link hướng dẫn import : https://atpweb.vn/blog/huong-dan-cac-cach-import-fi
 Bước 2: Mở file DBConnect.java bằng notpad cấu hình lại cho đúng với user và password mới của SQLServer. 
 
 Mặc định là : 
+	
 	user : sa
+	
 	password : 123456
 
 Bước 3: Add Driver sqljdbc vào Netbeans
